@@ -108,7 +108,6 @@ export const Info = (props) => {
 
   const dispatch = useDispatch();
   const siblings = useSelector(selectSiblings);
-  console.log(selectSiblings);
 
   useEffect(() => {
     if (borders.length) {
