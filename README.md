@@ -6,4 +6,4 @@
  - [x] Get extended country information
  - [x] Get list of neighboring countries
 
-[Demo](https://countries-c7hrnbigp-partyzzzan77.vercel.app/)
+[Demo](https://countries-lglq3m7mq-partyzzzan77.vercel.app/)
